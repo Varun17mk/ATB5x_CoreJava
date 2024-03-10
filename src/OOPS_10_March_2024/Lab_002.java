@@ -23,6 +23,6 @@ public class Lab_002 {
         sb.reverse();
         return original_str.equalsIgnoreCase(sb.toString());
     }
-
+    
 
 }
