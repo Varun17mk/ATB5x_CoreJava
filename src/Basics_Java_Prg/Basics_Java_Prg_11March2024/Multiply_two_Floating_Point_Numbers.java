@@ -1,4 +1,4 @@
-package src.Basics_Java_Prg_11March2024;
+package src.Basics_Java_Prg.Basics_Java_Prg_11March2024;
 
 import java.util.Scanner;
 
