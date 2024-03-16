@@ -3,7 +3,7 @@ package src.Basics_Java_Prg.Basics_Java_Prg_16March2024;
 import java.util.Scanner;
 
 public class Prime_nos_from_1_to_N {
-    static void Prime_N(int N){
+    static void Prime_N(int N){ //Creating function of Prime_N
 
         int x, y, flag;
 
@@ -36,6 +36,6 @@ public class Prime_nos_from_1_to_N {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the value of N");
         N = sc.nextInt();
-        Prime_N(N);
+        Prime_N(N);//Calling function Prime_N
     }
 }
