@@ -1,7 +1,7 @@
 package src.JAVA_1D_ARRAY.MARCH_23rd_2024;
 
 import java.util.Arrays;
-import java.util.Collections; // Collection Framework
+import java.util.Collections; // Collections Framework
 
 public class Array_sort {
 

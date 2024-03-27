@@ -15,7 +15,8 @@ public class ARRAY_1 {
             // is present in the array or not
             // using Linear Search method
             boolean test = false;
-            for (int element : arr) {
+            for (int element : arr) // For each loop
+            {
                 if (element == toCheckValue) {
                     test = true;
                     break;
