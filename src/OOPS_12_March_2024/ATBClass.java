@@ -9,7 +9,7 @@ public class ATBClass {
     }
 
     static int a=99;
-    static void printme(){
+    static void printMe(){
 
     }
 }

@@ -9,8 +9,8 @@ public class RunnerClass {
         r.bark();
 
         //imp
-        Dog h = new Ruby();
-        h.bark(); // calls ruby itself as Ruby's object is created
+//        Dog h = new Ruby();
+//        h.bark(); // calls ruby itself as Ruby's object is created
         // Runtime polymorphism
         // also called Dynamic Dispatch
 
